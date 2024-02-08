@@ -1,5 +1,7 @@
 <meta name="google-site-verification" content="Jq7ti0H2S7XbJhN1TBIajTwDni7ICrDz7datSE-eIoA" 
 
+---
+
 <img src="https://github.com/1D10T1C-STUD10S/into-the-light/assets/112738649/ea742ac7-b222-419c-9a8f-f97efef48c1f" width="400" height="300">
 
 ---

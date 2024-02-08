@@ -29,6 +29,6 @@ You can view the itch io site here:
 ---
 
 ## *Trailers and Others:*
-[Over here!](https://1d10t1c-stud10s.github.io/more-to-explore/trailers.html)
+[Over here!](https://1d10t1c-stud10s.github.io/into-the-light/trailers.html)
 
 ---

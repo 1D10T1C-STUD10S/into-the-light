@@ -16,8 +16,9 @@ You can view the itch io site here:
 
 ---
 
-Play it here!
-[Link to view all versions available](1d10t1c-stud10s.github.io/into-the-light/links.html)
+## **Play it here!**
+[Link to view all versions available](https://1d10t1c-stud10s.github.io/into-the-light/links.html)
+
 
 ---
 

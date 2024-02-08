@@ -1,20 +1,20 @@
 {
-  "name": "MtE Wiki",
-  "short_name": "MtE Wiki",
-  "description": "The Explorer's Compendium",
-  "scope": "/more-to-explore/",
-  "start_url": "/more-to-explore/",
+  "name": "ItL Site",
+  "short_name": "ItL Site",
+  "description": "Into the Light Site",
+  "scope": "/into-the-light/",
+  "start_url": "/into-the-light/",
   "background_color": "#3d3d3d",
   "theme_color": "#dcdcdc",
   "display": "standalone",
   "icons": [
     {
-      "src": "/more-to-explore/icon.png",
+      "src": "/into-the-light/assets/icon.png",
       "type": "image/png",
-      "sizes": "634x634"
+      "sizes": "186x130"
     }
   ],
-  "id": "MTEWiki",
+  "id": "ITLSite",
   "categories": [
     "books",
     "games",
